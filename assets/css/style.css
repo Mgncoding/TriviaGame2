@@ -1,0 +1,10 @@
+*::after, *::before {
+    box-sizing: border-box
+}
+body {
+    background: url("../images/nintendo.png");
+    background-repeat:no-repeat; 
+    background-size:cover;
+    background-position: center ;
+
+}
